@@ -47,6 +47,7 @@ acex-seguidor-de-linha/
 │   └── seguidor_pd_acex.ino # Algoritmo em C++ para Arduino
 ├── docs/                    # Documentação e regras da competição
 │   └── roteiro_acex.
+```
 
 ## 📋 Pré-requisitos e Materiais (Kit da Equipe)
 
